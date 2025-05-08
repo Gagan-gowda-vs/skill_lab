@@ -1,0 +1,25 @@
+{
+  "name": "skill_lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gagan-gowda-vs/skill_lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gagan-gowda-vs/skill_lab/issues"
+  },
+  "homepage": "https://github.com/Gagan-gowda-vs/skill_lab#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
